@@ -1,6 +1,6 @@
-### **Eye Blink Detector**  
+### **Driver Monitoring System**  
 
-The **Eye Blink Detector** is a real-time application that uses **OpenCV** to detect eye blinks using a webcam. This project is useful for applications like **driver drowsiness detection** or monitoring alertness levels. It employs **Haar Cascade Classifiers** to detect faces and eyes, and it tracks consecutive frames where eyes are closed to determine if a person is blinking.  
+The **Driver Monitoring System** is a real-time application that uses **OpenCV** to detect eye blinks using a webcam. This project is useful for applications like **driver drowsiness detection** or monitoring alertness levels. It employs **Haar Cascade Classifiers** to detect faces and eyes, and it tracks consecutive frames where eyes are closed to determine if a person is blinking.  
 
 #### **Technologies Used**  
 - **Python**  
